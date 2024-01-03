@@ -2,3 +2,4 @@ actividad 2024-01-01 1
 actividad 2024-01-01 2
 actividad 2024-01-01 3
 actividad 2024-01-01 4
+actividad 2024-01-02 1
