@@ -25,3 +25,4 @@ actividad 2024-01-05 1
 actividad 2024-01-06 1
 actividad 2024-01-06 2
 actividad 2024-01-07 1
+actividad 2024-01-07 2
