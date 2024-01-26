@@ -105,3 +105,4 @@ actividad 2024-01-24 2
 actividad 2024-01-25 1
 actividad 2024-01-25 2
 actividad 2024-01-26 1
+actividad 2024-01-26 2
