@@ -668,3 +668,4 @@ actividad 2024-05-31 2
 actividad 2024-05-31 3
 actividad 2024-05-31 4
 actividad 2024-06-01 1
+actividad 2024-06-01 2
