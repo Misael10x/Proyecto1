@@ -1376,3 +1376,4 @@ actividad 2024-11-05 4
 actividad 2024-11-05 5
 actividad 2024-11-05 6
 actividad 2024-11-06 1
+actividad 2024-11-06 2
