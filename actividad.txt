@@ -1490,3 +1490,4 @@ actividad 2024-12-01 3
 actividad 2024-12-01 4
 actividad 2024-12-01 5
 actividad 2024-12-02 1
+actividad 2024-12-02 2
