@@ -1612,3 +1612,4 @@ actividad 2024-12-31 5
 actividad 2024-12-31 6
 actividad 2025-01-01 1
 actividad 2025-01-01 2
+actividad 2025-01-02 1
