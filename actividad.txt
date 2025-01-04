@@ -5324,3 +5324,4 @@ actividad 2025-01-01 5
 actividad 2025-01-02 1
 actividad 2025-01-03 1
 actividad 2025-01-04 1
+actividad 2025-01-04 2
