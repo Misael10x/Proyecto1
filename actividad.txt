@@ -2305,3 +2305,4 @@ actividad 2025-06-01 4
 actividad 2025-06-01 5
 actividad 2025-06-01 6
 actividad 2025-06-01 7
+actividad 2025-06-02 1
