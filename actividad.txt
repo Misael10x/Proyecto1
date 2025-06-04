@@ -2319,3 +2319,4 @@ actividad 2025-06-03 4
 actividad 2025-06-03 5
 actividad 2025-06-03 6
 actividad 2025-06-04 1
+actividad 2025-06-04 2
