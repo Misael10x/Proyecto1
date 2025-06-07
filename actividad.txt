@@ -6021,3 +6021,4 @@ actividad 2025-06-05 6
 actividad 2025-06-05 7
 actividad 2025-06-06 1
 actividad 2025-06-07 1
+actividad 2025-06-07 2
