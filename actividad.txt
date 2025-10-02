@@ -10157,3 +10157,4 @@ actividad 2025-09-30 2
 actividad 2025-09-30 3
 actividad 2025-09-30 4
 actividad 2025-10-01 1
+actividad 2025-10-02 1
