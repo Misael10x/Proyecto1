@@ -3029,3 +3029,4 @@ actividad 2025-10-31 2
 actividad 2025-11-01 1
 actividad 2025-11-01 2
 actividad 2025-11-02 1
+actividad 2025-11-02 2
