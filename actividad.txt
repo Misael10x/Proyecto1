@@ -6844,3 +6844,4 @@ actividad 2025-11-25 8
 actividad 2025-11-26 1
 actividad 2025-11-26 2
 actividad 2025-11-27 1
+actividad 2025-11-27 2
