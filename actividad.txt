@@ -6868,3 +6868,4 @@ actividad 2025-12-01 5
 actividad 2025-12-02 1
 actividad 2025-12-02 2
 actividad 2025-12-03 1
+actividad 2025-12-03 2
