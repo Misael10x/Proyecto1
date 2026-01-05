@@ -21381,3 +21381,4 @@ actividad 2026-01-01 8
 actividad 2026-01-02 1
 actividad 2026-01-03 1
 actividad 2026-01-04 1
+actividad 2026-01-04 2
