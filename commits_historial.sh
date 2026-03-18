@@ -1,32 +1,33 @@
 #!/bin/bash
 
-start="2024-01-01"
-end=$(date +%Y-%m-%d)
-
 file="actividad.txt"
 
-current=$start
+# fechas
+today=$(date +%Y-%m-%d)
+yesterday=$(date -d "yesterday" +%Y-%m-%d)
 
-while [[ "$current" < "$end" ]] || [[ "$current" == "$end" ]]
+for day in $yesterday $today
 do
 
-# numero aleatorio de commits por dia
-num=$((1 + RANDOM % 8))
+# entre 5 y 8 commits
+num=$((5 + RANDOM % 4))
 
 for ((i=1;i<=num;i++))
 do
 
-echo "actividad $current $i" >> $file
+hour=$((10 + RANDOM % 10))
+minute=$((RANDOM % 60))
+second=$((RANDOM % 60))
+
+echo "actividad $day $i" >> $file
 
 git add .
 
-GIT_AUTHOR_DATE="$current $((10 + RANDOM % 10)):$(($RANDOM % 60)):$(($RANDOM % 60))" \
-GIT_COMMITTER_DATE="$current $((10 + RANDOM % 10)):$(($RANDOM % 60)):$(($RANDOM % 60))" \
-git commit -m "update $current commit $i"
+GIT_AUTHOR_DATE="$day $hour:$minute:$second" \
+GIT_COMMITTER_DATE="$day $hour:$minute:$second" \
+git commit -m "update $day commit $i"
 
 done
-
-current=$(date -I -d "$current + 1 day")
 
 done
 
