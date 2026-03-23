@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # fecha inicial (ajústala si quieres otro mes)
-start_date="2026-03-17"
+start_date="2026-03-23"
 
 # hoy
 end_date=$(date +%Y-%m-%d)
